@@ -1,5 +1,7 @@
 # exerciciosdeC
-Repositorio dedicado a exercicios resolvidos em C. 
-Tentarei ao manter este repositorio atualizado com exercicios variados em C sempre que tiver um tempo de folga
-da faculdade e dos estudos de Java tentarei resolver exercicios aleatorios em C. 
-Quem sabe um dia ele fique cheio de codigos e sirva de estudo para outra formiga apaixonada pela tecnologia.
+
+*repositório dedicado a exercícios resolvidos em C.* 😱😱😱
+
+Tentarei manter este repositório actualizado com exercícios resolvidos em C, sempre que tiver um tempo livre
+da faculdade e dos estudos de Java tentarei resolver exercícios em C e adicionar a este repositório.
+Quem sabe um dia ele fique cheio de códigos e sirva de estudo para outra formiga a caminhar pelo mundo da programação como eu.
